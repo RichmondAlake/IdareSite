@@ -1,0 +1,18 @@
+html#ecwid_html body#ecwid_body div#mini-cart-attached-to-categories.ecwid-cart-narrow-screen, div.ecwid-categories-horizontal.ecwid-categories-narrow-screen {
+	display: none;
+}
+
+html#ecwid_html body#ecwid_body .ecwid.ecwid-SingleProduct a ,
+.ecwid-SingleProduct a div.ecwid-title {
+	text-decoration: none;
+	color: #000000;
+}
+
+html#ecwid_html body#ecwid_body .ecwid-SearchPanel input {
+	max-width: 300px;
+}
+
+.ecwid-shopping-cart-categories #horizontal-menu {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

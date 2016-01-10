@@ -1,0 +1,31 @@
+- Clean up css and remove inline css
+- Events page???????
+- Comment code
+- Responsiveness (Being worked on...Tablet screeens are the issue) (991px) width
+
+- Team page modal (Not needed) (Make icons link externally)
+- Cross browser testing *
+
+
+Home Page
+-* Add a transition on logo to other logo
+- Complete and test all link in the footer
+- Add more pictures into the gallery (might have to scale pictures)
+- Add barcode to somewhere with in the site (crop image)
+- Replace section images with brand relevant images
+
+About Page
+- Complete and test contact form
+
+Team Page
+- Implement modal on click on image(Not needed)
+
+Store
+- Configure store
+
+Footer
+- Ensure all nav links go to the right place
+
+
+*Cant test links within site until site sits on server
+*Cant test email contact form until site sit on server
